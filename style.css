@@ -1,0 +1,29 @@
+body{
+    background-image: url(wp3427419-yamaha-bikes-wallpapers-desktop-wallpaper.jpg);
+}
+
+.form{
+    background-color: rgb(175, 218, 184);
+    color: rgb(0, 0, 0);
+    padding: 10px 200px;
+    align-content: center;
+    border-radius: 20px;
+    position: relative;
+    left: 400px;
+    
+}
+
+.forms{
+    align-items: center;
+    position: relative;
+    left: 260px;
+    background-color: rgb(175, 218, 184);
+    color: rgb(0, 0, 0);
+    padding: 10px 400px;
+    align-content: center;
+    border-radius: 20px;
+}
+
+.header{
+    
+}
